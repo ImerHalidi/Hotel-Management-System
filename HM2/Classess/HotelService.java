@@ -1,6 +1,8 @@
 package HM2.Classess;
 
-abstract class HotelService {
+import HM2.Interface.Chargeable;
+
+abstract class HotelService implements Chargeable{
     protected int id;
     protected String description;
     protected double baseCost;
