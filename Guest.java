@@ -1,4 +1,4 @@
-package HotelHM1;
+
 public class Guest {
     private int id;
     private String name;

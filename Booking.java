@@ -1,4 +1,4 @@
-package HotelHM1;
+
 import java.time.LocalDate;
 
 public class Booking {
