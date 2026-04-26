@@ -1,9 +1,9 @@
 package Class1;
 import java.util.ArrayList;
 
-import Class1.Room;
 
-public class Hotel {
+
+class Hotel {
     private String name;
     private ArrayList<Room> rooms;
     private ArrayList<Booking> bookings;
