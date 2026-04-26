@@ -1,5 +1,9 @@
+package Class1;
 
 import java.time.LocalDate;
+
+import Class1.Room;
+
 
 public class Booking {
     private int id;

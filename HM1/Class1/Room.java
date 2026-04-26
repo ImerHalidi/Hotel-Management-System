@@ -1,3 +1,5 @@
+package Class1;
+import Class1.Room;
 
 public class Room {
     private int id;

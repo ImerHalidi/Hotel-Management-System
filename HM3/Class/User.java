@@ -1,3 +1,4 @@
+package Class;
  class User {
     protected int id;
     protected String name;

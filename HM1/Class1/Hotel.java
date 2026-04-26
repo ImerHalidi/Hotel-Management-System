@@ -1,5 +1,7 @@
-
+package Class1;
 import java.util.ArrayList;
+
+import Class1.Room;
 
 public class Hotel {
     private String name;

@@ -1,11 +1,12 @@
-class Room {
+package Class;
+class Room1 {
     protected int roomnumber;
     protected double price;
     protected boolean isbooked;
     protected User bookedBy;
     protected int capacity;
 
-    public Room(int roomnumber,double price,int capacity){
+    public Room1(int roomnumber,double price,int capacity){
         this.roomnumber=roomnumber;
         this.price=price;
         this.capacity=capacity;

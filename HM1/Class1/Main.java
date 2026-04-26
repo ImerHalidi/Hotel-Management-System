@@ -1,5 +1,8 @@
+package Class1;
 
 import java.time.LocalDate;
+
+import Class1.Room;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Class1;
 
 public class Guest {
     private int id;
