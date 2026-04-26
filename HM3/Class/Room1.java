@@ -1,5 +1,5 @@
 package Class;
-class Room1 {
+abstract class Room1 {
     protected int roomnumber;
     protected double price;
     protected boolean isbooked;

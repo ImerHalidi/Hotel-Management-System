@@ -7,7 +7,7 @@ abstract class HotelService {
         this.user=user;
     }
 
-    abstract double calculateCost();
+    public abstract double calculateCost( );
 
     public void validateCodes(char[] karakteri){
         for(char ch:karakteri){
